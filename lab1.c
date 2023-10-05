@@ -11,3 +11,15 @@ int main() {
 
     return 0;
 }
+
+/*
+Output:
+
+Name: Nisarg D. Patel
+Age: 23
+Occupation: Student
+Location: Surat,Gujarat
+Contect Num: 7096814375
+Email: nisargpatel7096@gmail.com
+
+*/ 
